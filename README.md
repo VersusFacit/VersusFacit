@@ -1,6 +1,6 @@
 ## 👋 Hi and Hello
 
-I’m Mila Page (she/her) a developer relations advocate on the community team at dbt Labs
+I’m Mila Page (she/her) a developer relations advocate on the community team at dbt Labs.
 
 ## Technical Interests
 
@@ -8,7 +8,7 @@ I’m Mila Page (she/her) a developer relations advocate on the community team a
 
 ☄️ I'm walking down the [Data Engineer Roadmap](https://github.com/datastacktv/data-engineer-roadmap) to become an expert in Cloud-based data management systems and architectures. This quarter, I'm:
   1. Growing 🌱 my expertise in Discrete Maths, Data Structures and Algorithms, Pythonic Python, and C++
-  2. Putting into Practice ⚙️ Linux OS fundamentals and scripting[1](https://github.com/VersusFacit/scripts), and the more advance features of Git.
+  2. Putting into practice ⚙️ Linux OS fundamentals and scripting[1](https://github.com/VersusFacit/scripts), and the more advanced features of Git.
 
 <!---I've collected cannonical resources on all of these topics and will be creating repositories documenting various segments of this work.--->
 
@@ -26,4 +26,5 @@ I’m Mila Page (she/her) a developer relations advocate on the community team a
 ## Contact
 
 📨 milacpage@protonmail.com
+
 🗺️ I live in the Seattle area and always enjoy a real-world walk or a chat over coffee/food.

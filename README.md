@@ -1,13 +1,13 @@
 ## 👋 Hi and Hello
 
-I’m Mila Page (she/her) a developer relations advocate on the community team at dbt Labs.
+I’m Mila Page (she/her) a developer relations advocate on the community team at dbt Labs. My role revolves around writing tools, keeping the open-source dbt package ecosystem running, and developing features for hub.getdbt.com.
 
 ## Technical Interests
 
-👀 I love marrying the skillsets of data engineering, developer experience, and classical software engineering together!
+👀 I love marrying the skillsets of developer experience, DevOps and classical software engineering together!
 
 ☄️ I'm walking down the [Data Engineer Roadmap](https://github.com/datastacktv/data-engineer-roadmap) to become an expert in Cloud-based data management systems and architectures. This quarter, I'm:
-  1. Growing 🌱 my expertise in Discrete Maths, Data Structures and Algorithms, Pythonic Python, and C++
+  1. Growing 🌱 my expertise in Discrete Maths, Data Structures and Algorithms, and Pythonic Python
   2. Putting into practice ⚙️ Linux OS fundamentals and scripting[1](https://github.com/VersusFacit/scripts), and the more advanced features of Git.
 
 <!---I've collected cannonical resources on all of these topics and will be creating repositories documenting various segments of this work.--->

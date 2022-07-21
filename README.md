@@ -12,7 +12,7 @@ I’m Mila Page (she/her) a software engineer on the Core team at dbt Labs. I de
   1. Drilling Python, Go, and Rust. 
   2. Collaborating on utilities used by indie Vtubers.
   3. Building a Linear Algebra library for fun and education.
-  4. Traversing Lexi Lambda's lexi-lambda.github.io one page at a time
+  4. Traversing Lexi Lambda's [lovely blog](lexi-lambda.github.io) one page at a time
   5. Working through upper division math proofs
  
 ## Collaborating with me

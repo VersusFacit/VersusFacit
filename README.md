@@ -13,10 +13,12 @@ I’m Mila Page (she/her) a software engineer on the Core team at dbt Labs. I de
   2. Collaborating on utilities used by indie Vtubers.
   3. Building a Linear Algebra library for fun and education.
   4. Traversing Lexi Lambda's lexi-lambda.github.io one page at a time
+  5. Working through upper division math proofs
  
 ## Collaborating with me
 
 💞️ I’m always ready to chat about:
+- anything mathy that relates to code (or not, pure math is legit)
 - open source software and managing an open source community
 - data engineering or data warehouse lore
 
